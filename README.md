@@ -843,7 +843,7 @@ An extra late-night study hour isn’t automatically productive if it damages ne
 
 ⸻
 
-08 // THE COMPLETE ZERO → COMPETITIVE PIPELINE
+## 08 // THE COMPLETE ZERO → COMPETITIVE PIPELINE
 
                     ZERO KNOWLEDGE
                           │
