@@ -3,7 +3,8 @@ Crack any hardest exam
 
 Practical Approach
 
-Absolutely — here is the same content converted 
+Absolutely — here is the same content 
+
 # ⚡ PROTOCOL // ZERO-KNOWLEDGE EXAM BREACH
 > **A working system for starting a hard exam from absolute zero and getting to a competitive score.**
 Not a motivational pep talk.  
