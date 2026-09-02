@@ -26,6 +26,7 @@ DURATION	Scales to your timeline
 ```
 ⸻
 
+```text
 # 01 `WHY HARD EXAMS ARE CRACKABLE`
 
 
@@ -41,6 +42,7 @@ Signal	Meaning
 
 Core principle: Don’t study everything equally. Study what the exam repeatedly rewards.
 
+```
 ⸻
 
 02 // THE FOUR-PHASE FRAMEWORK
