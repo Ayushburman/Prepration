@@ -127,7 +127,7 @@ Comparing sources at this stage burns time without necessarily improving underst
 
 ⸻
 
-2. Use active recall
+## 2. Use active recall
 
 After finishing a topic:
 
