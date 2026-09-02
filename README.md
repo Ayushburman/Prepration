@@ -347,7 +347,7 @@ The goal is to make the entire performance curve improve, not just chase a highe
 
 ⸻
 
-Final 2 Weeks
+## Final 2 Weeks
 
 STOP LEARNING NEW TOPICS
 
