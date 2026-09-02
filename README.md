@@ -45,13 +45,17 @@ Core principle: Don’t study everything equally. Study what the exam repeatedly
 ```
 ⸻
 
-02 // THE FOUR-PHASE FRAMEWORK
+## `02 // THE FOUR-PHASE FRAMEWORK`
+
+```text
+
 
 The sequence matters.
 
 Do not skip Phase 1 and immediately start “studying.”
 
 Going in blind is one of the biggest time-wasters at the zero-knowledge stage.
+```
 
 ⸻
 
