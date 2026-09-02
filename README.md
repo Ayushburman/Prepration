@@ -944,8 +944,7 @@ Rule 07
 Sleep is part of preparation.
 
 ⸻
-
-END OF TRANSMISSION
+## END OF TRANSMISSION
 
 PROTOCOL STATUS: READY
 APPLY TO:
