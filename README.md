@@ -180,7 +180,7 @@ Understanding + application beats theoretical perfection.
 
 ⸻
 
-PHASE 03 — DRILLING
+## PHASE 03 — DRILLING
 
 MID-PREP · WHERE THE SCORE IS ACTUALLY BUILT
 
