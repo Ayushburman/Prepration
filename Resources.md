@@ -1,5 +1,7 @@
 The honest answer: you need far fewer resources than most people use. Resource-hoarding (5 books, 3 YouTube channels, 2 test series "just in case") is one of the biggest hidden time-sinks in exam prep — it feels like progress but mostly adds decision fatigue.
 
+
+
 **The minimum stack that actually works, per subject:**
 
 1. **One primary source** — a single book or single video course that covers the full syllabus. Not the "best" one exhaustively researched for a week — any well-regarded one, picked in a day.
