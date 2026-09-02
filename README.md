@@ -786,7 +786,7 @@ Use PYQs to determine where your time has the highest expected return.
 
 ⸻
 
-✕ No Error Log
+## ✕ No Error Log
 
 Without an error log:
 
