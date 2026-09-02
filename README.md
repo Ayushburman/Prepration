@@ -236,7 +236,7 @@ You’re applying spaced repetition to your mistakes, not just to textbook conte
 
 ⸻
 
-Formula Reflex
+## Formula Reflex
 
 For numerical / technical exams:
 
