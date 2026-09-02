@@ -33,6 +33,9 @@ That's it. Everything past this is optional polish, not a requirement.
 | **Toppers' interviews / strategy posts** | Calibrating your book list and rough approach, once, early | Copying someone else's exact schedule — their constraints aren't yours |
 
 
+
+
+
 **The test for adding any new resource:** ask "does this replace something I'm using, or does it duplicate something I already have?" If it duplicates, skip it — a second book on a topic you've already covered rarely beats spending that time on PYQs or mocks instead.
 
 If you want, I can map this exact minimum-resource stack onto GATE CSE specifically — the actual book/PYQ-source/mock-series options people use for that exam.
