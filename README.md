@@ -913,7 +913,7 @@ REPEAT
 
 ⸻
 
-10 // FINAL RULES
+## 10 // FINAL RULES
 
 Rule 01
 
