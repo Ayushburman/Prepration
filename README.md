@@ -885,7 +885,7 @@ An extra late-night study hour isn’t automatically productive if it damages ne
 
 ⸻
 
-09 // THE CORE OPERATING SYSTEM
+## 09 // THE CORE OPERATING SYSTEM
 
 If you remember nothing else, remember this:
 
