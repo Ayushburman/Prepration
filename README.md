@@ -210,7 +210,7 @@ Don’t postpone PYQs until the entire syllabus is finished.
 
 ⸻
 
-Build an Error Log
+## Build an Error Log
 
 Every wrong answer should have a reason.
 
