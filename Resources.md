@@ -11,6 +11,9 @@ The honest answer: you need far fewer resources than most people use. Resource-h
 5. **One doubt-resolution channel** — a mentor, senior, forum, or even a well-used AI assistant — somewhere specific questions get answered instead of sitting unresolved.
 
 
+
+
+
 That's it. Everything past this is optional polish, not a requirement.
 
 **What each resource type is actually *for*:**
