@@ -190,7 +190,7 @@ Understanding a concept and being able to solve exam questions on it are differe
 
 ⸻
 
-Topic-wise PYQs
+## Topic-wise PYQs
 
 Solve PYQs immediately after completing the topic.
 
