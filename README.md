@@ -59,7 +59,7 @@ Going in blind is one of the biggest time-wasters at the zero-knowledge stage.
 
 ⸻
 
-PHASE 01 — RECON
+## PHASE 01 — RECON
 
 WEEK 1 · BEFORE YOU STUDY A SINGLE TOPIC
 
