@@ -263,7 +263,7 @@ The goal is recognizing which formula to use under time pressure.
 
 ⸻
 
-PHASE 04 — SIMULATION
+## PHASE 04 — SIMULATION
 
 FINAL 6–8 WEEKS · TRAIN THE EXAM ITSELF
 
