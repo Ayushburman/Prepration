@@ -26,7 +26,8 @@ DURATION	Scales to your timeline
 ```
 ⸻
 
-01 // WHY HARD EXAMS ARE CRACKABLE
+# 01 `WHY HARD EXAMS ARE CRACKABLE`
+
 
 Every “impossible” exam is actually a fixed, finite, and repeating system.
 
