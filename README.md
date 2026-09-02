@@ -147,7 +147,7 @@ Do not immediately reread everything.
 
 ⸻
 
-3. Build one-page revision sheets
+## 3. Build one-page revision sheets
 
 Create a running sheet containing:
 
