@@ -162,7 +162,7 @@ These become your final revision material.
 
 ⸻
 
-4. Don’t chase 100% understanding
+## 4. Don’t chase 100% understanding
 
 Aim for:
 
