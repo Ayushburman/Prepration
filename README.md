@@ -23,6 +23,7 @@ OUTPUT	Exam-day readiness
 METHOD	PYQ-first + recall-driven
 DURATION	Scales to your timeline
 
+```
 ⸻
 
 01 // WHY HARD EXAMS ARE CRACKABLE
