@@ -829,7 +829,7 @@ Start simulations early enough to iterate.
 
 ⸻
 
-✕ Sacrificing Sleep
+## ✕ Sacrificing Sleep
 
 Don’t treat sleep as wasted preparation time.
 
