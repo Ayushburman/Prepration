@@ -540,7 +540,7 @@ Retrieval creates accessibility.
 
 ⸻
 
-TEACH — Feynman Technique
+## TEACH — Feynman Technique
 
 Explain the topic to an imaginary beginner.
 
