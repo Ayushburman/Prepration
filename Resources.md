@@ -16,6 +16,9 @@ The honest answer: you need far fewer resources than most people use. Resource-h
 
 That's it. Everything past this is optional polish, not a requirement.
 
+
+
+
 **What each resource type is actually *for*:**
 
 | Resource type | What it's for | What it's *not* for |
