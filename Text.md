@@ -7,5 +7,5 @@ C Cast
 >
 D Define
 >
-E
+E Exe 
 >
