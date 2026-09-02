@@ -11,6 +11,7 @@ An **operating procedure**.
 Applies to:
 **GATE · JEE · UPSC · GRE · GMAT · Board Exams · Certifications · Any syllabus + pattern + PYQ-based exam**
 ---
+
 ## `TRANSMISSION STATUS`
 ```text
 TRANSMISSION DECRYPTED
