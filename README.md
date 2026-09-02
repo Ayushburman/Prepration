@@ -814,7 +814,7 @@ DON'T REPEAT
 
 ⸻
 
-✕ First Full Mock in the Final Week
+## ✕ First Full Mock in the Final Week
 
 A final-week mock can reveal:
 
