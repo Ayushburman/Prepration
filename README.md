@@ -454,7 +454,7 @@ For example:
 
 ⸻
 
-04 // THE MEMORY CURVE
+## 04 // THE MEMORY CURVE
 
 The Problem
 
