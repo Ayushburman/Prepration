@@ -3,7 +3,7 @@ Crack any hardest exam
 
 Practical Approach
 
-Absolutely — here is the same content converted into a clean GitHub README.md format, preserving the “PROTOCOL / terminal” aestheti
+Absolutely — here is the same content converted into a clean GitHub README.md format, preserving the “PROTOCOL / terminal” 
 
 # ⚡ PROTOCOL // ZERO-KNOWLEDGE EXAM BREACH
 > **A working system for starting a hard exam from absolute zero and getting to a competitive score.**
