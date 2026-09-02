@@ -772,7 +772,7 @@ PRACTICE
 
 ⸻
 
-✕ Skipping PYQ Analysis
+## ✕ Skipping PYQ Analysis
 
 If you don’t analyze past papers, you may spend equal time on:
 
