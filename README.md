@@ -94,7 +94,7 @@ Your real syllabus = Official syllabus + PYQ frequency + marks distribution.
 
 ⸻
 
-PHASE 02 — FOUNDATION
+## PHASE 02 — FOUNDATION
 
 WEEKS 2–N · ONE PASS, BUILT FOR RECALL
 
