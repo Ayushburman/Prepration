@@ -1,7 +1,3 @@
-Yes — JEE Advanced is a completely different game from JEE Main. If your target is a top rank in JEE Advanced within ~1 year, the practical approach is depth + problem-solving ability + test temperament, not just syllabus completion.
-
-Assuming you’re starting around September 2026 for JEE Advanced 2027, here’s how I’d approach it.
-
 🎯 First, set the right target
 
 For Advanced, don’t prepare around a specific marks cutoff because the paper difficulty and rank-vs-marks relationship change substantially every year.
