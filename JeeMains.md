@@ -1,7 +1,3 @@
-Absolutely. For JEE Main, the strategy is similar in philosophy but different in execution. GATE rewards deep conceptual/PYQ mastery; JEE Main also requires speed, pattern recognition, calculation accuracy, and high-volume practice.
-
-If you’re targeting JEE Main 2027 and starting now, September 2026, you have enough time for a very strong percentile if you work consistently.
-
 🎯 First: Set the target
 
 Don’t prepare for “just qualifying.”
