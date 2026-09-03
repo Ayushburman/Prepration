@@ -1,5 +1,3 @@
-Yes. For GMAT, the strategy is closer to GRE in terms of test-taking, but the emphasis is different. If you’re targeting a very high GMAT score, the winning approach is reasoning + accuracy + timing + adaptive-test strategy, not memorising a huge syllabus.
-
 As of the current GMAT format, the exam has 3 sections:
 
 * Quantitative Reasoning
