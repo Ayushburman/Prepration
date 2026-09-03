@@ -1,6 +1,3 @@
-If you mean GRE, the strategy is quite different from GATE/JEE. A top GRE score is more about accuracy, vocabulary, reading ability, and test strategy than massive syllabus coverage.
-
-For a 330+ target, I’d use this approach.
 
 🎯 Target
 
