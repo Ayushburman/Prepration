@@ -837,6 +837,7 @@ Start simulations early enough to iterate.
 ⸻
 
 ## ✕ Sacrificing Sleep
+```bash
 
 Don’t treat sleep as wasted preparation time.
 
@@ -847,7 +848,7 @@ RECOVERY
 LEARNING
 
 An extra late-night study hour isn’t automatically productive if it damages next-day recall, attention, or accuracy.
-
+```
 ⸻
 
 ## 08 // THE COMPLETE ZERO → COMPETITIVE PIPELINE
