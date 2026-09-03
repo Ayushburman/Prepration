@@ -151,6 +151,7 @@ Do not immediately reread everything.
 
 ## 3. Build one-page revision sheets
 
+```text
 Create a running sheet containing:
 
 * Formulas
@@ -161,7 +162,7 @@ Create a running sheet containing:
 * Frequently repeated facts
 
 These become your final revision material.
-
+```
 ⸻
 
 ## 4. Don’t chase 100% understanding
