@@ -889,7 +889,7 @@ An extra late-night study hour isn’t automatically productive if it damages ne
 ⸻
 
 ## 09 // THE CORE OPERATING SYSTEM
-
+```text
 If you remember nothing else, remember this:
 
 PYQs
@@ -913,7 +913,7 @@ FULL MOCKS
 REVIEW MOCKS
  ↓
 REPEAT
-
+```
 ⸻
 
 ## 10 // FINAL RULES
