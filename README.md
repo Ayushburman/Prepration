@@ -60,7 +60,7 @@ Going in blind is one of the biggest time-wasters at the zero-knowledge stage.
 ⸻
 
 ## PHASE 01 — RECON
-
+```text
 WEEK 1 · BEFORE YOU STUDY A SINGLE TOPIC
 
 Map the exam, not the subject.
@@ -91,7 +91,7 @@ Objectives
 Your real syllabus is not just the official PDF.
 
 Your real syllabus = Official syllabus + PYQ frequency + marks distribution.
-
+```
 ⸻
 
 ## PHASE 02 — FOUNDATION
