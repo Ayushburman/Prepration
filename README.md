@@ -780,6 +780,7 @@ PRACTICE
 ⸻
 
 ## ✕ Skipping PYQ Analysis
+```bash
 
 If you don’t analyze past papers, you may spend equal time on:
 
@@ -790,7 +791,7 @@ RARE TOPIC
 That’s inefficient.
 
 Use PYQs to determine where your time has the highest expected return.
-
+```
 ⸻
 
 ## ✕ No Error Log
