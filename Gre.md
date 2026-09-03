@@ -1,4 +1,3 @@
-
 🎯 Target
 
 GRE General Test is scored:
