@@ -96,6 +96,7 @@ Your real syllabus = Official syllabus + PYQ frequency + marks distribution.
 
 ## PHASE 02 — FOUNDATION
 
+```text
 WEEKS 2–N · ONE PASS, BUILT FOR RECALL
 
 Learn each topic once — properly.
@@ -124,7 +125,7 @@ Book A
 + Telegram PDF
 
 Comparing sources at this stage burns time without necessarily improving understanding.
-
+```
 ⸻
 
 ## 2. Use active recall
