@@ -795,6 +795,7 @@ Use PYQs to determine where your time has the highest expected return.
 
 ## ✕ No Error Log
 
+```bash
 Without an error log:
 
 MISTAKE
@@ -818,7 +819,7 @@ FIX
 REVIEW
  ↓
 DON'T REPEAT
-
+```
 ⸻
 
 ## ✕ First Full Mock in the Final Week
