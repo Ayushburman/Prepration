@@ -847,6 +847,7 @@ An extra late-night study hour isn’t automatically productive if it damages ne
 ⸻
 
 ## 08 // THE COMPLETE ZERO → COMPETITIVE PIPELINE
+```bash
 
                     ZERO KNOWLEDGE
                           │
@@ -886,6 +887,7 @@ An extra late-night study hour isn’t automatically productive if it damages ne
                           ▼
                   COMPETITIVE SCORE
 
+```
 ⸻
 
 ## 09 // THE CORE OPERATING SYSTEM
