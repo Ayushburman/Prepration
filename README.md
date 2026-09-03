@@ -185,12 +185,13 @@ Understanding + application beats theoretical perfection.
 
 ## PHASE 03 — DRILLING
 
+```bash
 MID-PREP · WHERE THE SCORE IS ACTUALLY BUILT
 
 This phase should typically be 2–3× longer than foundation.
 
 Understanding a concept and being able to solve exam questions on it are different skills.
-
+```
 ⸻
 
 ## Topic-wise PYQs
