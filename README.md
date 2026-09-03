@@ -196,6 +196,8 @@ Understanding a concept and being able to solve exam questions on it are differe
 
 ## Topic-wise PYQs
 
+```bash
+
 Solve PYQs immediately after completing the topic.
 
 LEARN TOPIC
@@ -212,6 +214,7 @@ REPEAT
 
 Don’t postpone PYQs until the entire syllabus is finished.
 
+```
 ⸻
 
 ## Build an Error Log
