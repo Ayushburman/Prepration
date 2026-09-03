@@ -166,7 +166,7 @@ These become your final revision material.
 ⸻
 
 ## 4. Don’t chase 100% understanding
-
+```text
 Aim for:
 
 70% UNDERSTANDING
@@ -180,7 +180,7 @@ rather than:
 NO PRACTICE
 
 Understanding + application beats theoretical perfection.
-
+```
 ⸻
 
 ## PHASE 03 — DRILLING
