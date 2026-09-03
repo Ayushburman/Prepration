@@ -763,8 +763,8 @@ PRACTICE
 
 ⸻
 
-✕ Passive Rereading + Highlighting
-
+## ✕ Passive Rereading + Highlighting
+```bash
 Problem: Creates a high feeling of productivity.
 
 Reality: Low retrieval demand.
@@ -776,7 +776,7 @@ ACTIVE RECALL
 PYQs
 +
 PRACTICE
-
+```
 ⸻
 
 ## ✕ Skipping PYQ Analysis
