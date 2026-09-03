@@ -1,6 +1,4 @@
 
-If your goal is to crack TOEFL iBT with a very high score, don’t prepare for it like JEE/GATE. TOEFL is primarily a language + academic communication + 
-
 As of 2026, the TOEFL iBT has changed from the older 0–120-style framing, so use the current ETS scoring and test format when you book your exam. For preparation, the core skills remain Reading, Listening, Speaking, and Writing.
 
 🎯 Target
