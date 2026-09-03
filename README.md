@@ -130,6 +130,7 @@ Comparing sources at this stage burns time without necessarily improving underst
 
 ## 2. Use active recall
 
+```
 After finishing a topic:
 
 READ
@@ -145,7 +146,7 @@ CHECK GAPS
 FIX GAPS
 
 Do not immediately reread everything.
-
+```
 ⸻
 
 ## 3. Build one-page revision sheets
