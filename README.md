@@ -823,6 +823,7 @@ DON'T REPEAT
 
 ## ✕ First Full Mock in the Final Week
 
+```bash
 A final-week mock can reveal:
 
 * Time-management problems
@@ -833,7 +834,7 @@ A final-week mock can reveal:
 But there may be no time left to fix them.
 
 Start simulations early enough to iterate.
-
+```
 ⸻
 
 ## ✕ Sacrificing Sleep
