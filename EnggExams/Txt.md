@@ -15,8 +15,8 @@ asdf
 #!/usr/bin/env bash
 
 # ╔══════════════════════════════════════════════════════════╗
-# ║                 N E U R A L   C O R E                  ║
-# ║              Autonomous Intelligence OS                ║
+# ║                 N E U R A L   C O R E                    ║
+# ║              Autonomous Intelligence OS                  ║
 # ╚══════════════════════════════════════════════════════════╝
 
 clear
