@@ -948,6 +948,7 @@ Sleep is part of preparation.
 
 ⸻
 ## END OF TRANSMISSION
+```text
 
 PROTOCOL STATUS: READY
 APPLY TO:
@@ -963,5 +964,7 @@ ANY PATTERN-BASED COMPETITIVE EXAM
 ZERO KNOWLEDGE IS NOT THE PROBLEM.
 
 UNSTRUCTURED PREPARATION IS.
+
+```
 
 This version removes the HTML/CSS/SVG dependency and turns the material into a **native GitHub README structure** with headings, tables, code-style protocol blocks, diagrams, and checkable study logic.
