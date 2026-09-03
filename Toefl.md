@@ -1,6 +1,4 @@
 
-As of 2026, the TOEFL iBT has changed from the older 0–120-style framing, so use the current ETS scoring and test format when you book your exam. For preparation, the core skills remain Reading, Listening, Speaking, and Writing.
-
 🎯 Target
 
 For MS CSE abroad, I’d aim for:
