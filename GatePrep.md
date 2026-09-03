@@ -1,6 +1,3 @@
-
-Yes. One year is enough to get a top GATE CSE rank, but the approach should be very different from “finish all lectures and then solve PYQs.” For a top rank, your preparation needs to be PYQ-driven + test-driven + revision-heavy.
-
 Assuming you’re starting around September 2026 for GATE CSE 2027, you have roughly 5 months to the exam, not a full 12 months. So the strategy has to be aggressive and practical.
 
 🎯 First: What does “top rank” require?
