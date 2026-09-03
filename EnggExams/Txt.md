@@ -11,8 +11,7 @@ asdf
 *
 *
 ```
-
-
+```bash
 #!/usr/bin/env bash
 
 # ╔══════════════════════════════════════════════════════════╗
@@ -135,3 +134,5 @@ echo -e "${DIM}Session ID: $(date +%s)${RESET}"
 echo -e "${DIM}Node: $(hostname)${RESET}"
 echo
 echo -e "${CYAN}neural-core@system${RESET}:${GREEN}~${RESET}$ "
+
+```
