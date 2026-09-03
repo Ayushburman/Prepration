@@ -918,6 +918,7 @@ REPEAT
 
 ## 10 // FINAL RULES
 
+```text
 Rule 01
 
 Don’t study the syllabus. Study the exam.
@@ -945,7 +946,7 @@ In the final weeks, train the exam — not just the subject.
 Rule 07
 
 Sleep is part of preparation.
-
+```
 ⸻
 ## END OF TRANSMISSION
 ```text
